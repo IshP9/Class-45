@@ -10,7 +10,7 @@ var cupcakeImg, cupcake1, cupcake2, cupcake3, cupcake4, cupcake5, cupcake6, cupc
 
 function preload(){
   backgroundImg = loadImage("./Images/Background.jpg");
-  sunImg = loadImage("./Images/sun.png");
+  sunImg = loadImage("./Images/Sun.png");
   dogImg = loadImage("./Images/Dog.png");
   crabImg = loadImage("./Images/Crab.png");
   purpleB1Img = loadImage("./Images/Purple base.png");
